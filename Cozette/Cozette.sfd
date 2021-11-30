@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -2082812035
-ModificationTime: 1637223191
+ModificationTime: 1638284059
 PfmFamily: 49
 TTFWeight: 500
 TTFWidth: 5
@@ -119,11 +119,11 @@ NameList: AGL with PUA
 DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 64 32 17
+WinInfo: 8000 32 17
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 2790
+BeginChars: 1114112 2791
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -20039,6 +20039,13 @@ Width: 1024
 Flags: HW
 LayerCount: 2
 EndChar
+
+StartChar: uni200B
+Encoding: 8203 8203 2790
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
 BitmapFont: 13 2791 10 3 1
 BDFStartProperties: 42
@@ -25558,28 +25565,28 @@ BDFChar: 2734 708 6 2 4 4 8
 +@(HB+92BA
 BDFChar: 2735 709 6 2 4 4 8
 J3Y5BJ,fQL
-BDFChar: 2736 8192 6 6 6 -1 -1
-z
-BDFChar: 2737 8193 6 6 6 -1 -1
-z
-BDFChar: 2738 8194 6 6 6 -1 -1
-z
-BDFChar: 2739 8195 6 6 6 -1 -1
-z
-BDFChar: 2740 8196 6 6 6 -1 -1
-z
-BDFChar: 2741 8197 6 6 6 -1 -1
-z
-BDFChar: 2742 8198 6 6 6 -1 -1
-z
-BDFChar: 2743 8199 6 6 6 -1 -1
-z
-BDFChar: 2744 8200 6 6 6 -1 -1
-z
-BDFChar: 2745 8201 6 6 6 -1 -1
-z
-BDFChar: 2746 8202 6 6 6 -1 -1
-z
+BDFChar: 2736 8192 6 1 5 -3 8
+i/j%^O8r[MOH=De
+BDFChar: 2737 8193 6 1 5 -3 8
+d&<nAVuU4eOH=De
+BDFChar: 2738 8194 6 1 4 -2 8
+i/j%^O8s6M?kD5r
+BDFChar: 2739 8195 6 1 5 -2 8
+d&<nAVuUde?kD5r
+BDFChar: 2740 8196 6 1 4 -2 8
+i"09-huI_H?kD5r
+BDFChar: 2741 8197 6 1 4 -2 8
+OH>QC&--["?kD5r
+BDFChar: 2742 8198 6 1 4 -2 8
+@"@0s?iY.r?kD5r
+BDFChar: 2743 8199 6 1 4 -2 8
+n:9GIJ,jP=?kD5r
+BDFChar: 2744 8200 6 1 4 -2 8
+i/llIJ,jP=?kD5r
+BDFChar: 2745 8201 6 1 4 -2 8
+i'9Om5QGbR?kD5r
+BDFChar: 2746 8202 6 1 4 -2 8
+OHAsnO8s6M?kD5r
 BDFChar: 2747 8239 6 6 6 -1 -1
 z
 BDFChar: 2748 9001 6 2 4 -1 7
@@ -25666,6 +25673,8 @@ BDFChar: 2788 128260 6 -1 6 -1 8
 n)o=8DK]X.kP"rV
 BDFChar: 2789 128259 6 -1 6 -1 8
 ^DdWq]tM+`f_kdM
+BDFChar: 2790 8203 6 1 4 -2 8
+n/suHn,REX?kD5r
 BDFRefChar: 1999 1944 0 0 N
 BDFRefChar: 2000 1943 0 0 N
 BDFRefChar: 2001 1941 0 0 N
