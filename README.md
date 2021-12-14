@@ -20,6 +20,6 @@ section. Keep in mind that GitHub command line tool seems to put `master`
 branch code in **Source code (zip)** in releases, but the `.ttf` is built
 against my latest branch, not `master`.
 
-## Character map
+## Character map (as of [branch:more-icons](https://github.com/cpkio/Cozette/tree/more-icons))
 
 ![Character map](./img/showcase.png)
