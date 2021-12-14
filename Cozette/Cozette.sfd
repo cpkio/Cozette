@@ -4,7 +4,7 @@ FullName: Cozette
 FamilyName: Cozette
 Weight: Medium
 Copyright: (c) 2021 Slavfox
-Version: 1.140
+Version: 1.18
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -2082812035
-ModificationTime: 1639087054
+ModificationTime: 1639480271
 PfmFamily: 49
 TTFWeight: 500
 TTFWidth: 5
@@ -119,11 +119,11 @@ NameList: AGL with PUA
 DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8768 32 17
+WinInfo: 61600 32 17
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 2808
+BeginChars: 1114112 2822
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -8422,7 +8422,7 @@ EndChar
 StartChar: uniF0F3
 Encoding: 61683 61683 1132
 Width: 945
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -8436,7 +8436,7 @@ EndChar
 StartChar: uniF1F6
 Encoding: 61942 61942 1134
 Width: 945
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -20165,8 +20165,106 @@ Width: 1024
 Flags: HW
 LayerCount: 2
 EndChar
+
+StartChar: uni238B
+Encoding: 9099 9099 2808
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni25CC
+Encoding: 9676 9676 2809
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni26D3
+Encoding: 9939 9939 2810
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF02E
+Encoding: 61486 61486 2811
+Width: 945
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF097
+Encoding: 61591 61591 2812
+Width: 945
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF0C6
+Encoding: 61638 61638 2813
+Width: 945
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF08D
+Encoding: 61581 61581 2814
+Width: 945
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF06D
+Encoding: 61549 61549 2815
+Width: 945
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF08A
+Encoding: 61578 61578 2816
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF132
+Encoding: 61746 61746 2817
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF08B
+Encoding: 61579 61579 2818
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF090
+Encoding: 61584 61584 2819
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF0EB
+Encoding: 61675 61675 2820
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF294
+Encoding: 62100 62100 2821
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 13 2809 10 3 1
+BitmapFont: 13 2822 10 3 1
 BDFStartProperties: 42
 FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
 COMMENT 0 "(c) 2020 Slavfox"
@@ -22455,7 +22553,7 @@ BDFChar: 1119 64716 6 0 6 0 6
 BDFChar: 1120 61744 6 0 6 -1 7
 &3)Y\\l:X#2uipY
 BDFChar: 1121 61745 6 0 6 -1 7
-&3;qb\o`1Y2uipY
+&3;YJOu.EF2uipY
 BDFChar: 1122 61515 6 1 4 0 6
 JAC+4i4sjC
 BDFChar: 1123 61516 6 1 5 0 6
@@ -22476,12 +22574,12 @@ BDFChar: 1130 61514 6 0 5 1 5
 ,]*Bp,QIfE
 BDFChar: 1131 61512 6 1 5 0 6
 LmY^I\<r'P
-BDFChar: 1132 61683 6 0 6 0 6
-&3,&bI/XZW
+BDFChar: 1132 61683 6 0 6 0 7
+&3,&bI/a*V
 BDFChar: 1133 61602 6 0 6 0 7
 &3*'G7"YCL
-BDFChar: 1134 61942 6 0 6 -1 6
-&3=oL>eX$b
+BDFChar: 1134 61942 6 0 6 0 7
+&3=oL>eYZK
 BDFChar: 1135 61943 6 0 6 0 7
 &3<3Q<2+i'
 BDFChar: 1136 61747 6 0 6 1 7
@@ -25828,6 +25926,34 @@ BDFChar: 2806 8676 6 1 6 1 5
 OJ)NEO8o7\
 BDFChar: 2807 8677 6 0 5 1 5
 ,S^.j,QIfE
+BDFChar: 2808 9099 6 0 6 0 6
+kes2.Jj_Qu
+BDFChar: 2809 9676 6 0 6 0 6
+&4?MM!(7@u
+BDFChar: 2810 9939 6 0 6 0 7
+Ue47TUe47T
+BDFChar: 2811 61486 6 1 5 0 7
+q"XXZq"WKt
+BDFChar: 2812 61591 6 1 5 0 7
+pkX`^LoAs^
+BDFChar: 2813 61638 6 1 5 -1 7
+E/:`sW2QYNDu]k<
+BDFChar: 2814 61581 6 1 5 0 7
+pi(1kE;1Ou
+BDFChar: 2815 61549 6 1 5 0 8
++>@cm^gJ8bp](9o
+BDFChar: 2816 61578 6 0 6 0 6
+Cm'C%6mrTH
+BDFChar: 2817 61746 6 0 5 0 7
+r8cr"jCi3\
+BDFChar: 2818 61579 6 0 5 0 7
+E.EbW]SM)W
+BDFChar: 2819 61584 6 0 5 0 7
+3!:N!oHXQ!
+BDFChar: 2820 61675 6 0 6 -1 8
+3(/XUJj_RX3"Q&i
+BDFChar: 2821 62100 6 1 5 -1 7
++>Ba5+E485+92BA
 BDFRefChar: 1999 1944 0 0 N
 BDFRefChar: 2000 1943 0 0 N
 BDFRefChar: 2001 1941 0 0 N
