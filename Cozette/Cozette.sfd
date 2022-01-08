@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -2082812035
-ModificationTime: 1641462238
+ModificationTime: 1641631649
 PfmFamily: 49
 TTFWeight: 500
 TTFWidth: 5
@@ -119,7 +119,7 @@ NameList: AGL with PUA
 DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 62784 32 15
+WinInfo: 2784 32 11
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -10081,7 +10081,7 @@ EndChar
 StartChar: uni04F1
 Encoding: 1265 1265 1369
 Width: 1024
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -10095,7 +10095,7 @@ EndChar
 StartChar: uni04F3
 Encoding: 1267 1267 1371
 Width: 1024
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -20586,7 +20586,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 13 2868 10 3 1
+BitmapFont: 13 2869 10 3 1
 BDFStartProperties: 42
 FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
 COMMENT 0 "(c) 2020 Slavfox"
@@ -22601,7 +22601,7 @@ BDFChar: 982 9166 6 0 5 0 6
 BDFChar: 983 8734 6 0 6 1 4
 Cm'rt
 BDFChar: 984 1059 6 1 5 0 7
-LkpkC:f&:M
+Lkpj`:`pmr
 BDFChar: 985 1072 6 1 5 0 5
 E!U]EQtQI"
 BDFChar: 986 1073 6 1 5 0 8
@@ -23041,7 +23041,7 @@ E/9$pLi<=o
 BDFChar: 1203 1090 6 1 5 0 5
 p`L\%+<UXa
 BDFChar: 1204 1091 6 1 5 -2 5
-Lkpj`:`pmr
+Lknl(+<Wp7
 BDFChar: 1205 1092 6 1 5 -2 7
 +<YX%W2QY6+<UXa
 BDFChar: 1206 1093 6 1 5 0 5
@@ -23091,7 +23091,7 @@ BDFChar: 1227 1116 6 1 5 0 8
 BDFChar: 1228 1117 6 1 5 0 8
 5Tg&oR&Ht)a8c2?
 BDFChar: 1229 1118 6 1 5 -2 8
-:`oaoLknl(+<\H"
+:`oaoLepnj+@&0l
 BDFChar: 1230 1119 6 1 5 -2 5
 LkpkCM"i)8
 BDFChar: 1231 1120 6 1 5 0 7
@@ -23139,9 +23139,9 @@ N/39d:f&8W
 BDFChar: 1252 1141 6 1 5 0 5
 Lknl(+<UXa
 BDFChar: 1253 1142 6 1 6 0 9
-TMPWILepoE+<UXa
+O@TA1LepoE+<UXa
 BDFChar: 1254 1143 6 1 5 0 8
-TMPWELepnj+92BA
+O@TA-Lepnj+92BA
 BDFChar: 1255 1144 6 1 5 0 7
 LknkME2\S3
 BDFChar: 1256 1145 6 1 5 0 5
@@ -23367,15 +23367,15 @@ BDFChar: 1365 1261 6 1 5 0 7
 BDFChar: 1366 1262 6 1 5 0 9
 Dub]MLknl(+M[sW
 BDFChar: 1367 1263 6 1 5 -2 7
-Dub]MLepnj+M[sW
+Dub]M:f&8W5X5;L
 BDFChar: 1368 1264 6 1 5 0 9
 :]Q<-Lknl(+M[sW
 BDFChar: 1369 1265 6 1 5 -2 7
-:]Q<-Lepnj+M[sW
+:]Q<-:f&8W5X5;L
 BDFChar: 1370 1266 6 1 5 0 9
--r9o"Lknl(+M[sW
+8<<h-Lknl(+M[sW
 BDFChar: 1371 1267 6 1 5 -2 8
--r9o"Lknl(+<\H"
+8<<h-Lepnj+@&0l
 BDFChar: 1372 1268 6 1 5 0 9
 :]Q<-Lkp9]#RCD1
 BDFChar: 1373 1269 6 1 5 0 7
