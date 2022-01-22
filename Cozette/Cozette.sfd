@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -2082812035
-ModificationTime: 1642840393
+ModificationTime: 1642843116
 PfmFamily: 49
 TTFWeight: 500
 TTFWidth: 5
@@ -119,7 +119,7 @@ NameList: AGL with PUA
 DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 832 32 12
+WinInfo: 928 32 12
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -9472,14 +9472,14 @@ EndChar
 StartChar: uni049A
 Encoding: 1178 1178 1282
 Width: 1024
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
 StartChar: uni049B
 Encoding: 1179 1179 1283
 Width: 1024
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -9514,14 +9514,14 @@ EndChar
 StartChar: uni04A0
 Encoding: 1184 1184 1288
 Width: 1024
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
 StartChar: uni04A1
 Encoding: 1185 1185 1289
 Width: 1024
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
@@ -23023,7 +23023,7 @@ R$ahNaN+>]
 BDFChar: 1194 1081 6 1 5 0 8
 :`ob*R&Ht)a8c2?
 BDFChar: 1195 1082 6 1 5 0 5
-Lle:fOGEl:
+LlgPVOGEl:
 BDFChar: 1196 1083 6 1 5 0 5
 GXt@r8;I6G
 BDFChar: 1197 1084 6 1 5 0 5
@@ -23087,7 +23087,7 @@ TV1eQW3?7%
 BDFChar: 1226 1115 6 1 5 0 7
 5X=g(=D15r
 BDFChar: 1227 1116 6 1 5 0 8
-&0Lt/OJ(NnL]@DT
+&0Lt/OPl4^L]@DT
 BDFChar: 1228 1117 6 1 5 0 8
 5Tg&oR&Ht)a8c2?
 BDFChar: 1229 1118 6 1 5 -2 8
@@ -23196,10 +23196,10 @@ BDFChar: 1280 1176 6 1 5 -2 7
 n;%?(#RH6*+CG0L
 BDFChar: 1281 1177 6 1 5 -2 5
 E/61RLi=JE
-BDFChar: 1282 1178 6 1 5 -2 7
-OH>Qsi1Q1!#RCD1
-BDFChar: 1283 1179 6 1 5 -2 5
-OH?-nOI-:Z
+BDFChar: 1282 1178 6 1 6 -2 7
+Lkq.cd#a'B"9\])
+BDFChar: 1283 1179 6 1 6 -2 5
+LlgPVOGj;F
 BDFChar: 1284 1180 6 1 5 0 7
 Lo@PNn?AjI
 BDFChar: 1285 1181 6 1 5 0 5
@@ -23209,9 +23209,9 @@ BDFChar: 1286 1182 6 0 5 0 7
 BDFChar: 1287 1183 6 0 5 0 7
 5k%04:hWBf
 BDFChar: 1288 1184 6 0 5 0 7
-j<Q-%3$]ap
+j<Q---n$>d
 BDFChar: 1289 1185 6 0 5 0 5
-j<uE9,U<?i
+j<u]1-mScm
 BDFChar: 1290 1186 6 1 5 -2 7
 OH>RnOH>Qk#RCD1
 BDFChar: 1291 1187 6 1 5 -2 5
