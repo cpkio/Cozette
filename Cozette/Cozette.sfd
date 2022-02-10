@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -2082812035
-ModificationTime: 1642892662
+ModificationTime: 1644446609
 PfmFamily: 49
 TTFWeight: 500
 TTFWidth: 5
@@ -114,16 +114,17 @@ MATH:RadicalKernAfterDegree: -1137
 MATH:RadicalDegreeBottomRaisePercent: 60
 MATH:MinConnectorOverlap: 40
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL with PUA
 DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 992 32 12
+WinInfo: 2208 32 12
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 2880
+BeginChars: 1114112 2888
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -20669,8 +20670,64 @@ Width: 1024
 Flags: HW
 LayerCount: 2
 EndChar
+
+StartChar: uniE400.alt
+Encoding: 58368 58368 2880
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE401.alt
+Encoding: 58369 58369 2881
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE402.alt
+Encoding: 58370 58370 2882
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE403.alt
+Encoding: 58371 58371 2883
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE404.alt
+Encoding: 58372 58372 2884
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE405.alt
+Encoding: 58373 58373 2885
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE406.alt
+Encoding: 58374 58374 2886
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE407.alt
+Encoding: 58375 58375 2887
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 13 2881 10 3 1
+BitmapFont: 13 2888 10 3 1
 BDFStartProperties: 42
 FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
 COMMENT 0 "(c) 2020 Slavfox"
@@ -26476,6 +26533,22 @@ BDFChar: 2878 990 6 1 5 0 7
 ^d(/pkR\:B
 BDFChar: 2879 991 6 1 5 -1 7
 +<Wp7p^duZ+92BA
+BDFChar: 2880 58368 6 1 5 -1 7
+3(QS284\R3L]@DT
+BDFChar: 2881 58369 6 1 5 -1 5
+GXt@rM"lc+
+BDFChar: 2882 58370 6 1 5 0 7
+Lkpj`:`pmr
+BDFChar: 2883 58371 6 1 5 -2 5
+Lknl(+<Wp7
+BDFChar: 2884 58372 6 1 5 -2 7
+OH>QcOH>S!#RCD1
+BDFChar: 2885 58373 6 1 5 -2 5
+OH>QcOSB(e
+BDFChar: 2886 58374 6 1 5 -2 7
+W2QYnW2QZi#WMea
+BDFChar: 2887 58375 6 1 5 -2 5
+W2QYnW;$WX
 BDFRefChar: 1999 1944 0 0 N
 BDFRefChar: 2000 1943 0 0 N
 BDFRefChar: 2001 1941 0 0 N
