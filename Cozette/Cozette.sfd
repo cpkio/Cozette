@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -2082812035
-ModificationTime: 1647293651
+ModificationTime: 1650107936
 PfmFamily: 49
 TTFWeight: 500
 TTFWidth: 5
@@ -119,11 +119,11 @@ NameList: AGL with PUA
 DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8281 49 14
+WinInfo: 9114 49 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 2929
+BeginChars: 1114112 2931
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -21012,8 +21012,22 @@ Width: 1024
 Flags: HW
 LayerCount: 2
 EndChar
+
+StartChar: triaglf
+Encoding: 9668 9668 2929
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: triagrt
+Encoding: 9658 9658 2930
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 13 2930 10 3 1
+BitmapFont: 13 2931 10 3 1
 BDFStartProperties: 42
 FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
 COMMENT 0 "(c) 2020 Slavfox"
@@ -23525,10 +23539,10 @@ BDFChar: 1231 1120 6 1 5 0 7
 :l'q+W2QXk
 BDFChar: 1232 1121 6 1 5 0 5
 :l'q+W)*Ho
-BDFChar: 1233 1122 6 1 5 0 7
-5k%$X84Z;@
-BDFChar: 1234 1123 6 1 5 0 7
-5X=g(E(EN=
+BDFChar: 1233 1122 6 0 5 0 8
+5X=g(GXOqfGQ7^D
+BDFChar: 1234 1123 6 0 5 0 7
+5X=g(GXOrE
 BDFChar: 1235 1124 6 1 5 0 7
 R%U,ATV.sF
 BDFChar: 1236 1125 6 1 5 0 5
@@ -23595,10 +23609,10 @@ BDFChar: 1266 1162 6 1 5 -2 9
 :`tR]R&Ht)aG:*5
 BDFChar: 1267 1163 6 1 5 -2 8
 :`ob*R&Ht)a9W=W
-BDFChar: 1268 1164 6 1 5 0 7
-5X=6mE(EOh
-BDFChar: 1269 1165 6 1 5 0 7
-5X7Tm5]B85
+BDFChar: 1268 1164 6 0 5 0 7
+5i=nP6psFf
+BDFChar: 1269 1165 6 0 5 0 5
+5i=nP7!J\3
 BDFChar: 1270 1166 6 1 5 0 7
 n;)n!n;)UF
 BDFChar: 1271 1167 6 1 5 -3 5
@@ -24075,8 +24089,8 @@ BDFChar: 1506 9633 6 0 6 0 6
 rdo`RJqEt%
 BDFChar: 1507 9632 6 0 6 0 6
 rr2orrr2ls
-BDFChar: 1508 9650 6 0 6 0 6
-&3)XsI/a*F
+BDFChar: 1508 9650 6 0 5 0 5
+0JH$gK_tfM
 BDFChar: 1509 9660 6 0 6 0 6
 rr.:m3&hHL
 BDFChar: 1510 9675 6 0 6 0 6
@@ -26917,6 +26931,10 @@ BDFChar: 2927 8542 6 1 5 -2 8
 E"F-7!;HP5E):KR
 BDFChar: 2928 8585 6 1 5 -2 8
 E)9AM!;HP50G%Ul
+BDFChar: 2929 9668 6 1 5 1 5
+(jPh#(]XO9
+BDFChar: 2930 9658 6 1 5 1 5
+_!q-g^]4?7
 BDFRefChar: 1999 1944 0 0 N
 BDFRefChar: 2000 1943 0 0 N
 BDFRefChar: 2001 1941 0 0 N
