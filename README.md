@@ -12,14 +12,17 @@ to make my personal edits to this font public.
 
 I have added a lot of extra glyphs and redesigned a few. I'm lazy and don't
 document my changes thouroughly, but I do commit frequently and make a lot of
-branches. So, feel free to get whatever branch or commit you want and build it
-for yourself.
+branches (from 2022-06-01 not so true anymore). So, feel free to get whatever
+branch or commit you want and build it for yourself.
 
 I build only `.ttf`, because I'm using Windows, and upload them in Release
-section. Keep in mind that GitHub command line tool seems to put `master`
-branch code in **Source code (zip)** in releases, but the `.ttf` is built
-against my latest branch, not `master`.
+section.
 
-## Character map (as of [branch:more-icons](https://github.com/cpkio/Cozette/tree/more-icons))
+### 2022-06-01
+
+I have decided to stop branching and from now on will put all of my changes in
+`master`.
+
+## Character map
 
 ![Character map](./img/showcase.png)
