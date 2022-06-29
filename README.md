@@ -20,8 +20,8 @@ section.
 
 ### 2022-06-01
 
-I have decided to stop branching and from now on will put all of my changes in
-`master`.
+I have decided to stop excess branching and from now on will put all of my
+changes in `master`.
 
 ## Character map
 
