@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -2082812035
-ModificationTime: 1660891267
+ModificationTime: 1660977492
 PfmFamily: 49
 TTFWeight: 500
 TTFWidth: 5
@@ -119,11 +119,11 @@ NameList: AGL with PUA
 DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 64152 18 13
+WinInfo: 63063 49 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 3012
+BeginChars: 1114112 3022
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -21593,8 +21593,78 @@ Width: 945
 Flags: HW
 LayerCount: 2
 EndChar
+
+StartChar: f_f_i
+Encoding: 64259 64259 3012
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: f_f_l
+Encoding: 64260 64260 3013
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: longs_t
+Encoding: 64261 64261 3014
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: s_t
+Encoding: 64262 64262 3015
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniFA7B
+Encoding: 64123 64123 3016
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF836
+Encoding: 63542 63542 3017
+Width: 945
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF160
+Encoding: 61792 61792 3018
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF161
+Encoding: 61793 61793 3019
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF162
+Encoding: 61794 61794 3020
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF163
+Encoding: 61795 61795 3021
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 13 3012 10 3 1
+BitmapFont: 13 3023 10 3 1
 BDFStartProperties: 42
 FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
 COMMENT 0 "(c) 2020 Slavfox"
@@ -27650,9 +27720,9 @@ BDFChar: 3003 63484 6 0 6 0 6
 3(/p]Z;`d`
 BDFChar: 3004 63510 6 0 6 -1 7
 3%-`tr^?1SmJm4e
-BDFChar: 3005 63511 6 0 5 -1 7
+BDFChar: 3005 63511 6 1 6 -1 7
 i8=Un!1]Rp)uos=
-BDFChar: 3006 63512 6 -1 5 -1 7
+BDFChar: 3006 63512 6 0 6 -1 7
 E,Yer!3T(i%KHJ/
 BDFChar: 3007 63540 6 1 5 -1 6
 E;95'E,Yer
@@ -27664,6 +27734,26 @@ BDFChar: 3010 63703 6 0 6 0 5
 I+J;.r*TL)
 BDFChar: 3011 64182 6 2 5 -1 7
 OHAs>?smAM?iU0,
+BDFChar: 3012 64259 6 0 5 0 8
+/5T1@:fLCn;ucmu
+BDFChar: 3013 64260 6 0 6 0 8
+/5T1@<)cgr<WE+"
+BDFChar: 3014 64261 6 0 6 0 8
+0M"b&84Z9B7K<Dg
+BDFChar: 3015 64262 6 0 6 0 8
+&1ArELhIVBjo>A]
+BDFChar: 3016 64123 6 0 5 0 9
+0JEJtGVB-Ar;6Np
+BDFChar: 3017 63542 6 0 6 1 5
+CkB6MC]FG8
+BDFChar: 3018 61792 6 0 6 -1 7
+84Z!>9L)A@5QCca
+BDFChar: 3019 61793 6 0 6 -1 7
+:/4&J9L)/45QCca
+BDFChar: 3020 61794 6 0 6 -1 7
+9LM9D5Yb)6:&k7o
+BDFChar: 3021 61795 6 0 6 -1 7
+:/4,N5YOT,:&k7o
 BDFRefChar: 1999 1944 0 0 N
 BDFRefChar: 2000 1943 0 0 N
 BDFRefChar: 2001 1941 0 0 N
