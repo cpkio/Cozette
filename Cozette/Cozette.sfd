@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -2082812035
-ModificationTime: 1692991161
+ModificationTime: 1695893664
 PfmFamily: 49
 TTFWeight: 500
 TTFWidth: 5
@@ -119,11 +119,11 @@ NameList: AGL with PUA
 DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 828 46 14
+WinInfo: 63204 46 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 3397
+BeginChars: 1114112 3408
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -24345,8 +24345,87 @@ Width: 1024
 Flags: HW
 LayerCount: 2
 EndChar
+
+StartChar: uniF83D
+Encoding: 63549 63549 3397
+Width: 945
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF83E
+Encoding: 63550 63550 3398
+Width: 945
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF83F
+Encoding: 63551 63551 3399
+Width: 945
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF840
+Encoding: 63552 63552 3400
+Width: 945
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF490
+Encoding: 62608 62608 3401
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF17F
+Encoding: 61823 61823 3402
+Width: 945
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF534
+Encoding: 62772 62772 3403
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF871
+Encoding: 63601 63601 3404
+Width: 945
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE780
+Encoding: 59264 59264 3405
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF06C
+Encoding: 61548 61548 3406
+Width: 945
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF829
+Encoding: 63529 63529 3407
+Width: 945
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3406 61548 N 1 0 0 1 0 0 2
+EndChar
 EndChars
-BitmapFont: 13 3398 10 3 1
+BitmapFont: 13 3408 10 3 1
 BDFStartProperties: 42
 FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
 COMMENT 0 "(c) 2020 Slavfox"
@@ -25204,8 +25283,8 @@ BDFChar: 404 8210 6 1 5 3 3
 p](9o
 BDFChar: 405 8211 6 1 5 3 3
 p](9o
-BDFChar: 406 8212 6 0 6 3 3
-rVuou
+BDFChar: 406 8212 6 -1 6 3 3
+rr<$!
 BDFChar: 407 8213 6 0 5 3 3
 qu?]s
 BDFChar: 408 8214 6 2 4 -3 9
@@ -27562,8 +27641,8 @@ BDFChar: 1583 61635 6 0 6 -1 6
 HmgBk7"#"5
 BDFChar: 1584 61668 6 0 6 0 5
 3)omgp1s^/
-BDFChar: 1585 61715 6 0 6 1 6
-K)YbhWdFdH
+BDFChar: 1585 61715 6 0 6 0 6
+K)YbhWe,Tu
 BDFChar: 1586 61716 6 0 5 0 5
 n=5/bK_tfM
 BDFChar: 1587 61717 6 0 6 0 5
@@ -30039,7 +30118,7 @@ BDFChar: 2821 61534 6 0 6 0 6
 BDFChar: 2822 61694 6 0 6 0 6
 I.$ESmd>H&
 BDFChar: 2823 61736 6 0 5 0 7
-Gl5c&0JEJ\
+Gg+AK0JEJ\
 BDFChar: 2824 61737 6 1 4 0 7
 ?sium?smC3
 BDFChar: 2825 61738 6 2 3 0 7
@@ -31186,6 +31265,28 @@ BDFChar: 3395 9659 6 0 5 1 5
 ^p&d%^]4?7
 BDFChar: 3396 9669 6 0 5 1 5
 $oGmZ$ig8-
+BDFChar: 3397 63549 6 1 5 0 7
+E)9C+pt5B:
+BDFChar: 3398 63550 6 1 5 0 7
+E)7,@q"XXZ
+BDFChar: 3399 63551 6 1 5 0 7
+E)7,@Lkpl^
+BDFChar: 3400 63552 6 1 5 0 7
+E)9C+Lo?.)
+BDFChar: 3401 62608 6 0 5 0 9
+5[Z!VI/McQ`(0k.
+BDFChar: 3402 61823 6 0 6 0 6
+E4#?,]Hea&
+BDFChar: 3403 62772 6 0 6 0 8
+#T++hrqQ9fHiO-H
+BDFChar: 3404 63601 6 0 6 0 6
+mdBKCmdBKC
+BDFChar: 3405 59264 6 0 5 0 9
+5[Z!VI/McQ`(0k.
+BDFChar: 3406 61548 6 0 5 -1 8
+$p8q(gpjk5J:IV"
+BDFChar: 3407 63529 6 0 0 0 0
+z
 BDFRefChar: 1996 1941 0 0 N
 BDFRefChar: 1997 1940 0 0 N
 BDFRefChar: 1998 1938 0 0 N
@@ -31219,5 +31320,6 @@ BDFRefChar: 3205 1678 0 0 N
 BDFRefChar: 3206 1578 0 0 N
 BDFRefChar: 3238 1097 0 0 N
 BDFRefChar: 3372 642 0 0 N
+BDFRefChar: 3407 3406 0 0 N
 EndBitmapFont
 EndSplineFont
