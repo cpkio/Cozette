@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -2082812035
-ModificationTime: 1695916177
+ModificationTime: 1697273365
 PfmFamily: 49
 TTFWeight: 500
 TTFWidth: 5
@@ -119,11 +119,11 @@ NameList: AGL with PUA
 DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 62744 46 14
+WinInfo: 61364 46 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 3417
+BeginChars: 1114112 3418
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -24487,8 +24487,15 @@ Width: 1024
 Flags: HW
 LayerCount: 2
 EndChar
+
+StartChar: uniE708
+Encoding: 59144 59144 3417
+Width: 945
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 13 3417 10 3 1
+BitmapFont: 13 3419 10 3 1
 BDFStartProperties: 42
 FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
 COMMENT 0 "(c) 2020 Slavfox"
@@ -27690,10 +27697,10 @@ BDFChar: 1576 61546 6 0 6 0 6
 3,J$NrbOOo
 BDFChar: 1577 61555 6 0 6 1 7
 7(WAtri5qt
-BDFChar: 1578 61563 6 1 5 1 5
-i;!*Bp](9o
-BDFChar: 1579 61564 6 0 5 1 5
-n:5oap](9o
+BDFChar: 1578 61563 6 0 5 1 6
+i;ENNr;6Np
+BDFChar: 1579 61564 6 0 6 1 6
+i;A+Srql`r
 BDFChar: 1580 61596 6 0 6 0 6
 $ka3Jq"XUa
 BDFChar: 1581 61600 6 0 6 1 5
@@ -27706,10 +27713,10 @@ BDFChar: 1584 61668 6 0 6 0 5
 3)omgp1s^/
 BDFChar: 1585 61715 6 0 6 0 6
 K)YbhWe,Tu
-BDFChar: 1586 61716 6 0 5 0 5
-n=5/bK_tfM
-BDFChar: 1587 61717 6 0 6 0 5
-n=50G_YaB6
+BDFChar: 1586 61716 6 0 5 1 6
+i4O_rK_tfM
+BDFChar: 1587 61717 6 0 6 1 6
+i4O`W_YaB6
 BDFChar: 1588 61734 6 0 5 -2 8
 5bLYI84ZQb5bL@B
 BDFChar: 1589 61803 6 0 6 0 6
@@ -30504,14 +30511,14 @@ BDFChar: 2983 63142 6 0 6 -1 8
 &1Bqu`i>2$3"Q&i
 BDFChar: 2984 63260 6 0 5 0 7
 nEAs2N6JC$
-BDFChar: 2985 63306 6 0 5 1 5
-i;ENNqu?]s
-BDFChar: 2986 63318 6 0 5 1 5
-i7s:Hqu?]s
-BDFChar: 2987 63319 6 0 5 1 5
-i2k_8qu?]s
-BDFChar: 2988 63320 6 0 5 1 5
-i;DAhqu?]s
+BDFChar: 2985 63306 6 0 5 1 6
+i;ENNr;6Np
+BDFChar: 2986 63318 6 0 5 1 6
+i;DAhh#%-P
+BDFChar: 2987 63319 6 0 5 1 6
+i;B\3XS`%u
+BDFChar: 2988 63320 6 0 5 1 6
+i;DAhgtVl0
 BDFChar: 2989 63363 6 1 5 0 5
 po#;X+E.;\
 BDFChar: 2990 63380 6 1 5 -1 7
@@ -31367,7 +31374,9 @@ BDFChar: 3414 62826 6 0 6 0 6
 BDFChar: 3415 63204 6 0 6 0 7
 E*2mUrr2nE
 BDFChar: 3416 63235 6 0 5 -2 7
-q#('Vr4EGSHoM*+
+q#('Vr4EGSCcDCp
+BDFChar: 3417 59144 6 0 6 0 6
+7""ucWe,Tu
 BDFRefChar: 1996 1941 0 0 N
 BDFRefChar: 1997 1940 0 0 N
 BDFRefChar: 1998 1938 0 0 N
