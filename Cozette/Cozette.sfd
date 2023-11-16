@@ -119,7 +119,7 @@ NameList: AGL with PUA
 DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 62146 46 14
+WinInfo: 7752 19 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -24761,7 +24761,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 13 3456 10 3 1
+BitmapFont: 13 3457 10 3 1
 BDFStartProperties: 42
 FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
 COMMENT 0 "(c) 2020 Slavfox"
@@ -29684,9 +29684,9 @@ E/9=+pkX`^!$D7A
 BDFChar: 2437 7841 6 1 5 -2 5
 G_h03QtQIB
 BDFChar: 2438 7842 6 1 5 0 9
-E"HuELkth^Lkl$2
-BDFChar: 2439 7843 6 1 5 0 8
-E"F.:LkpkSBE/#4
+E"F.2Lkth^Lkl$2
+BDFChar: 2439 7843 6 1 5 0 9
+E"F,lG_h03QtQI"
 BDFChar: 2440 7844 6 0 5 0 9
 7&U)F6puDj6pq"T
 BDFChar: 2441 7845 6 0 5 0 8
@@ -29696,9 +29696,9 @@ Lf=@66puDj6pq"T
 BDFChar: 2443 7847 6 0 5 0 8
 Lf=@:6psF:1]RLU
 BDFChar: 2444 7850 6 1 5 -2 9
-+A`&OYQ/WuM"ld^
+BWqIZ:]PHjM"ld^
 BDFChar: 2445 7851 6 1 5 -1 9
-+A`&OYQ/p(LmViU
+BWqIZ:]P`rLmViU
 BDFChar: 2446 7852 6 1 5 -2 9
 +A`&WLkth^Lkl$R
 BDFChar: 2447 7853 6 1 5 -2 8
@@ -30038,9 +30038,9 @@ BDFChar: 2613 7833 6 1 5 -3 9
 BDFChar: 2614 7834 6 1 5 0 9
 &-rOQG_h03QtQI"
 BDFChar: 2615 7866 6 1 5 0 9
-E"MepJFJ)>JG9*E
-BDFChar: 2616 7867 6 1 5 0 8
-E"F.2M"lLVDu]k<
+E"F/eJ:R->JG9*E
+BDFChar: 2616 7867 6 1 5 0 9
+E"F,lE/=:>Li<=o
 BDFChar: 2617 7868 6 1 5 0 9
 BWqL3J:R->JG9*E
 BDFChar: 2618 7869 6 1 5 0 8
@@ -30053,10 +30053,10 @@ BDFChar: 2621 7872 6 0 5 0 9
 Lf=A%5X9QZ5^WP3
 BDFChar: 2622 7873 6 0 5 0 8
 Lf=@67!q6f2uipY
-BDFChar: 2623 7876 6 1 5 0 7
-pjdnaJ:N1F
-BDFChar: 2624 7877 6 1 5 0 5
-E/=:>Li<=o
+BDFChar: 2623 7876 6 1 5 -2 9
+BWqIZ:]U9@n:6&a
+BDFChar: 2624 7877 6 1 5 -2 9
+BWqIZ:]PHjpje0>
 BDFChar: 2625 7878 6 1 5 -2 9
 +A`(5J:R->JG9*e
 BDFChar: 2626 7879 6 1 5 -2 8
@@ -30074,9 +30074,9 @@ E/9=+Lkpk+!$D7A
 BDFChar: 2632 7885 6 1 5 -2 5
 E/9=+Li<>:
 BDFChar: 2633 7886 6 1 5 0 9
-E"HuELkpkCLi<=o
-BDFChar: 2634 7887 6 1 5 0 8
-E"F.2LkpkCDu]k<
+E"F.2LkpkCLi<=o
+BDFChar: 2634 7887 6 1 5 0 9
+E"F,lE/9=+Li<=o
 BDFChar: 2635 7888 6 0 5 -2 9
 7&U)F6psF26psF&
 BDFChar: 2636 7889 6 0 5 0 8
@@ -30086,9 +30086,9 @@ Lf=@66psF26psF&
 BDFChar: 2638 7891 6 0 5 0 8
 Lf=@66psF22uipY
 BDFChar: 2639 7894 6 1 5 -2 9
-+A`&OYQ/WuLkpk+
+BWqIZ:]PHjLkpk+
 BDFChar: 2640 7895 6 1 5 -1 9
-+A`&OYQ/WuLkp!M
+BWqIZ:]PHjLkp!M
 BDFChar: 2641 7896 6 1 5 -2 9
 +A`&WLkpkCLi<>:
 BDFChar: 2642 7897 6 1 5 -2 8
