@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -2082812035
-ModificationTime: 1703251292
+ModificationTime: 1705089882
 PfmFamily: 49
 TTFWeight: 500
 TTFWidth: 5
@@ -119,11 +119,11 @@ NameList: AGL with PUA
 DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 10534 46 14
+WinInfo: 61640 46 14
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 3473
+BeginChars: 1114112 3479
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -24879,8 +24879,50 @@ Width: 1024
 Flags: HW
 LayerCount: 2
 EndChar
+
+StartChar: uni2201
+Encoding: 8705 8705 3473
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: partialdiff
+Encoding: 8706 8706 3474
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE63A
+Encoding: 58938 58938 3475
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE736
+Encoding: 59190 59190 3476
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniE7B0
+Encoding: 59312 59312 3477
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF0F6
+Encoding: 61686 61686 3478
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 13 3474 10 3 1
+BitmapFont: 13 3479 10 3 1
 BDFStartProperties: 42
 FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
 COMMENT 0 "(c) 2020 Slavfox"
@@ -31872,6 +31914,18 @@ BDFChar: 3471 10550 6 1 5 1 6
 #RC],n3?sR
 BDFChar: 3472 10551 6 1 5 1 6
 J:N03GRsiT
+BDFChar: 3473 8705 6 1 4 0 7
+@$#nhJ:N_h
+BDFChar: 3474 8706 6 0 5 0 7
+3(*m37#6Y<
+BDFChar: 3475 58938 6 0 6 0 5
+D#XE]3"Q&i
+BDFChar: 3476 59190 6 0 6 0 7
+rdqk=p-a9>
+BDFChar: 3477 59312 6 0 6 1 7
+&9.CGr46hI
+BDFChar: 3478 61686 6 0 5 0 7
+n<f`!["Pga
 BDFRefChar: 1996 1941 0 0 N
 BDFRefChar: 1997 1940 0 0 N
 BDFRefChar: 1998 1938 0 0 N
