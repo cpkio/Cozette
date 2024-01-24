@@ -119,7 +119,7 @@ NameList: AGL with PUA
 DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8372 46 14
+WinInfo: 46 46 13
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -24929,7 +24929,7 @@ Flags: HW
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 13 3480 10 3 1
+BitmapFont: 13 3481 10 3 1
 BDFStartProperties: 42
 FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
 COMMENT 0 "(c) 2020 Slavfox"
@@ -25253,8 +25253,8 @@ BDFChar: 137 169 6 0 6 0 6
 3(1?P\jSLX
 BDFChar: 138 170 6 2 5 3 7
 ?k@:=Du]k<
-BDFChar: 139 171 6 1 5 1 5
--r?R5-ia5I
+BDFChar: 139 171 6 0 5 1 5
+,Y4"f,QIfE
 BDFChar: 140 172 6 1 4 0 3
 n.6-B
 BDFChar: 141 173 6 2 4 3 3
@@ -25285,8 +25285,8 @@ BDFChar: 153 185 6 1 3 4 8
 5eoWMhuE`W
 BDFChar: 154 186 6 3 5 3 7
 5bL@BhuE`W
-BDFChar: 155 187 6 1 5 1 5
-TMR%5TE"rl
+BDFChar: 155 187 6 1 6 1 5
+O@UWfO8o7\
 BDFChar: 156 188 6 1 5 -2 8
 +CH<7!;HOj:iHsG
 BDFChar: 157 189 6 1 5 -2 8
