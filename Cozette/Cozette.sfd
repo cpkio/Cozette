@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -2082812035
-ModificationTime: 1705788359
+ModificationTime: 1706516478
 PfmFamily: 49
 TTFWeight: 500
 TTFWidth: 5
@@ -119,11 +119,11 @@ NameList: AGL with PUA
 DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 46 46 13
+WinInfo: 0 46 13
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 3480
+BeginChars: 1114112 3484
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -24928,8 +24928,36 @@ Width: 1024
 Flags: HW
 LayerCount: 2
 EndChar
+
+StartChar: uni204B
+Encoding: 8267 8267 3480
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2047
+Encoding: 8263 8263 3481
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2048
+Encoding: 8264 8264 3482
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2049
+Encoding: 8265 8265 3483
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 13 3481 10 3 1
+BitmapFont: 13 3485 10 3 1
 BDFStartProperties: 42
 FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
 COMMENT 0 "(c) 2020 Slavfox"
@@ -25273,8 +25301,8 @@ BDFChar: 147 179 6 1 4 4 8
 i"09-huE`W
 BDFChar: 148 180 6 3 4 7 8
 5_&h7
-BDFChar: 149 181 6 1 5 -2 5
-84Z9BBM^sE
+BDFChar: 149 181 6 1 6 -2 5
+LkpkCaL$JJ
 BDFChar: 150 182 6 1 5 -1 7
 Gj+@)-n$Jl-ia5I
 BDFChar: 151 183 6 2 4 2 4
@@ -30902,7 +30930,7 @@ BDFChar: 2961 8500 6 0 5 0 5
 BDFChar: 2962 8464 6 1 5 0 7
 3"R2T+@&3M
 BDFChar: 2963 8466 6 1 5 0 7
-+<Wp75_+C[
+0IT1O5_.d[
 BDFChar: 2964 8682 6 1 5 0 7
 +Adkj:iHDR
 BDFChar: 2965 8459 6 0 6 0 7
@@ -31935,6 +31963,14 @@ BDFChar: 3478 61686 6 0 5 0 7
 n<f`!["Pga
 BDFChar: 3479 8455 6 1 5 -1 6
 E/9$PJ:NGp
+BDFChar: 3480 8267 6 1 5 -1 7
+n@6!4TV.sNTE"rl
+BDFChar: 3481 8263 6 0 5 0 7
+8@0Wf84W_O
+BDFChar: 3482 8264 6 1 5 0 7
+8>mpb84W_O
+BDFChar: 3483 8265 6 1 5 0 7
+OJmtkOH9I(
 BDFRefChar: 1996 1941 0 0 N
 BDFRefChar: 1997 1940 0 0 N
 BDFRefChar: 1998 1938 0 0 N
