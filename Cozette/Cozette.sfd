@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -2082812035
-ModificationTime: 1710834395
+ModificationTime: 1710879140
 PfmFamily: 49
 TTFWeight: 500
 TTFWidth: 5
@@ -119,11 +119,11 @@ NameList: AGL with PUA
 DisplaySize: 13
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 10810 46 13
+WinInfo: 10534 46 13
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 3503
+BeginChars: 1114112 3515
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -25089,8 +25089,92 @@ Width: 1024
 Flags: HW
 LayerCount: 2
 EndChar
+
+StartChar: uni2B6A
+Encoding: 11114 11114 3503
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2B6B
+Encoding: 11115 11115 3504
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2B6D
+Encoding: 11117 11117 3505
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2B6C
+Encoding: 11116 11116 3506
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2B38
+Encoding: 11064 11064 3507
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2911
+Encoding: 10513 10513 3508
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2997
+Encoding: 10647 10647 3509
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2998
+Encoding: 10648 10648 3510
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2999
+Encoding: 10649 10649 3511
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni299A
+Encoding: 10650 10650 3512
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2B4D
+Encoding: 11085 11085 3513
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni2B1A
+Encoding: 11034 11034 3514
+Width: 1024
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 13 3503 10 3 1
+BitmapFont: 13 3515 10 3 1
 BDFStartProperties: 42
 FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
 COMMENT 0 "(c) 2020 Slavfox"
@@ -32142,6 +32226,30 @@ BDFChar: 3501 11182 6 1 5 0 6
 3,ihUpi%>U
 BDFChar: 3502 11183 6 1 5 0 6
 i,EXSpi%>U
+BDFChar: 3503 11114 6 0 5 1 5
++@+FA+92BA
+BDFChar: 3504 11115 6 1 5 0 7
++E3,Z!$D7a
+BDFChar: 3505 11117 6 1 5 0 7
++93Ma+GatZ
+BDFChar: 3506 11116 6 0 5 1 5
+&.#?C&-)\1
+BDFChar: 3507 11064 6 0 5 2 4
+5h&%!
+BDFChar: 3508 10513 6 0 5 2 4
+#cn:3
+BDFChar: 3509 10647 6 2 4 -1 7
+@)0Rn^qdb$?iU0,
+BDFChar: 3510 10648 6 1 3 -1 7
+^gLPX?smAM^]4?7
+BDFChar: 3511 10649 6 3 3 0 6
+J,k*"J,k*"
+BDFChar: 3512 10650 6 2 3 0 7
+J3\WMJ3\WM
+BDFChar: 3513 11085 6 1 4 0 7
++@(JH&>6hs
+BDFChar: 3514 11034 6 0 6 0 6
+WW7VNJcMeN
 BDFRefChar: 1996 1941 0 0 N
 BDFRefChar: 1997 1940 0 0 N
 BDFRefChar: 1998 1938 0 0 N
