@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: -2082812035
-ModificationTime: 1764739065
+ModificationTime: 1764739455
 PfmFamily: 49
 TTFWeight: 500
 TTFWidth: 5
@@ -123,7 +123,7 @@ WinInfo: 63045 45 13
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 -1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114112 3773
+BeginChars: 1114112 3779
 
 StartChar: .notdef
 Encoding: 0 -1 0
@@ -26992,8 +26992,60 @@ Width: 945
 Flags: HW
 LayerCount: 2
 EndChar
+
+StartChar: uniF82A
+Encoding: 63530 63530 3773
+Width: 945
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF82B
+Encoding: 63531 63531 3774
+Width: 945
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF82C
+Encoding: 63532 63532 3775
+Width: 945
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uniF82E
+Encoding: 63534 63534 3776
+Width: 945
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3773 63530 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniF82F
+Encoding: 63535 63535 3777
+Width: 945
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 3775 63532 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uniF82D
+Encoding: 63533 63533 3778
+Width: 945
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 13 3773 10 3 1
+BitmapFont: 13 3779 10 3 1
 BDFStartProperties: 42
 FONT 1 "-slavfox-Cozette-Medium-R-Normal--13-120-75-75-M-60-ISO10646-1"
 COMMENT 0 "(c) 2020 Slavfox"
@@ -34585,6 +34637,18 @@ BDFChar: 3771 63495 6 0 6 0 5
 i4e7P!&srY
 BDFChar: 3772 63494 6 0 6 0 6
 i4e7Pi4eIV
+BDFChar: 3773 63530 6 1 5 -1 5
++E2:=peXce
+BDFChar: 3774 63531 6 0 6 -1 8
+-n*(H3&imF-n#&q
+BDFChar: 3775 63532 6 1 5 -1 5
++Abm2peXce
+BDFChar: 3776 63534 6 0 0 0 0
+z
+BDFChar: 3777 63535 6 0 0 0 0
+z
+BDFChar: 3778 63533 6 1 5 -1 5
++L"[Mn5rKe
 BDFRefChar: 1996 1941 0 0 N
 BDFRefChar: 1997 1940 0 0 N
 BDFRefChar: 1998 1938 0 0 N
@@ -34620,5 +34684,7 @@ BDFRefChar: 3238 1097 0 0 N
 BDFRefChar: 3372 642 0 0 N
 BDFRefChar: 3407 3406 0 0 N
 BDFRefChar: 3552 3401 0 0 N
+BDFRefChar: 3776 3773 0 0 N
+BDFRefChar: 3777 3775 0 0 N
 EndBitmapFont
 EndSplineFont
